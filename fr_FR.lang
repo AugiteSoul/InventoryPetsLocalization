@@ -17,7 +17,7 @@ item.petOcelot.name=Ocelot de compagnie
 
 item.petFurnace.name=Four de compagnie
 item.petEnchantingTable.name=Table d'enchantement de compagnie
-item.petCraftingTable.name=Table de crafting de compagnie
+item.petCraftingTable.name=Etabli de compagnie
 item.petChest.name=Coffre de compagnie
 item.petDoubleChest.name=Double Coffre de compagnie
 item.petBed.name=Lit de compagnie
@@ -28,24 +28,24 @@ item.petBrewingStand.name=Alambic de compagnie
 item.petPingot.name="Pingot" de compagnie
 item.petMickerson.name="Mickerson"
 item.petPurpliciousCow.name="Purplicious Cow" de compagnie
-item.petNetherPortal.name= Mini Portail du Nether de Compagnie
+item.petNetherPortal.name= Mini Portail du Nether de compagnie
 
 item.petCloud.name=Nuage de compagnie
 item.petBlackHole.name=Trou noir de compagnie
-item.petPufferfish.name=Poisson ballon de compagnie
-item.petQuantumCrystalMonster.name=Monster quantique de cristal de compagnie
+item.petPufferfish.name=Poisson-globe de compagnie
+item.petQuantumCrystalMonster.name=Monstre quantique de cristal de compagnie
 
-item.petShield.name=Bouclier de Companie
-item.petMoon.name=Lune de Companie
-item.petHeart.name=Coeur de Companie
-item.petDubstep.name=Lecteur de Dubstep de Companie
-item.petSponge.name=√âponge de Companie
-item.petBanana.name=Banane de Companie
-item.petBlaze.name=Blaze de Companie
-item.petEnderChest.name=Coffre de l'Ender de Companie
-item.petMooshroom.name=Champimeuh de Companie
-item.petBlaze.name=Blaze de Companie
-item.petLoot.name=Butin de Companie
+item.petShield.name=Bouclier de Compagnie
+item.petMoon.name=Lune de Compagnie
+item.petHeart.name=Coeur de Compagnie
+item.petDubstep.name=Lecteur de Dubstep de Compagnie
+item.petSponge.name=√âponge de Compagnie
+item.petBanana.name=Banane de Compagnie
+item.petBlaze.name=Blaze de Compagnie
+item.petEnderChest.name=Coffre de l'Ender de Compagnie
+item.petMooshroom.name=Champimeuh de Compagnie
+item.petBlaze.name=Blaze de Compagnie
+item.petLoot.name=Butin de Compagnie
 
 item.diamondNugget.name=P√©pite de diamant
 item.obsidianNugget.name=P√©pite d'obsidienne
